@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Updated from class to header element for better Search Engine Optimization */
+/* Updated from div class to header element for proper Semantics/Search Engine Optimization */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,15 +16,18 @@ header {
     color: #ffffff;
 }
 
+/* Updated from div class to header element */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Updated from div class to header element */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Updated from div class to header element, changed div to nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,10 +36,12 @@ header nav {
     font-size: 20px;
 }
 
+/* Updated from div class to header element, changed div to nav */
 header nav ul {
     list-style-type: none;
 }
 
+/* Updated from div class to header element, changed div to nav */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -189,7 +194,7 @@ p {
     font-size: 36px;
 }
 
-/* Updated from class to footer element for better Search Engine Optimization */
+/* Updated from div class to footer element for proper Semantics/Search Engine Optimization */
 footer {
     padding: 30px;
     clear: both;
@@ -197,6 +202,7 @@ footer {
     text-align: center;
 }
 
+/* Updated from div class to footer element */
 footer h2 {
     font-size: 20px;
 }
