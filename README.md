@@ -12,3 +12,5 @@ The purpose of this challenge was to update existing div tags to comply with pro
 - Proper semantic elements for accessability
 - Comments of changes in both index.html and style.css
 - Alt attributes on all images on webpage
+
+- ![SemanticHTML](https://github.com/CameronHack/SemanticHTMLchallenge/assets/139071966/55dd84d6-d148-4e11-ba11-2b699930ac4c)
